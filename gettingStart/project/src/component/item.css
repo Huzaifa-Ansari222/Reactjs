@@ -1,0 +1,8 @@
+.item{
+    background-color: rgb(148, 148, 148);
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    border: 5px white solid;
+    font-weight: bolder;
+}
