@@ -1,0 +1,17 @@
+.heroRightTop{
+    position: relative;
+    background-color: cadetblue;
+    width: 100%;
+    justify-content: space-between;
+}
+.smallcover{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+#smallcardImg{
+    width: 50px;
+    position:absolute;
+    right: 0;
+    bottom: 0;
+}
